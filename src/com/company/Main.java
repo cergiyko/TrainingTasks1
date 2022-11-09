@@ -46,6 +46,7 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Git test2");
+        System.out.println("first step in main");
 
         System.out.println("Task1");
         countBits(100);
