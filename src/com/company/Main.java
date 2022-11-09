@@ -36,11 +36,6 @@
 //Завершите функцию scramble(str1, str2), которая возвращает,
 // trueесли часть str1символов можно переставить, чтобы они
 // соответствовали str2, в противном случае возвращает false.
-
-
-
-
-
 package com.company;
 import java.math.BigInteger;
 import java.util.Deque;
@@ -50,6 +45,7 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Git test");
         System.out.println("Task1");
         countBits(100);
 
@@ -75,7 +71,6 @@ public class Main {
         System.out.println(scramble("rkqodlw","world"));
         System.out.println(scramble("cedewaraaossoqqyt","codewars"));
         System.out.println(scramble("scriptjavx","javascript"));
-
     }
 
 //Task1
