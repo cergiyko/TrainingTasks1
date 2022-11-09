@@ -47,7 +47,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Git test2");
         System.out.println("Add feat");
-
+        System.out.println("Add 2 step feat");
         System.out.println("Task1");
         countBits(100);
 
