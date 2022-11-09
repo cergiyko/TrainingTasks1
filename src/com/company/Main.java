@@ -47,10 +47,12 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Git test2");
         System.out.println("first step in main");
+        System.out.println("Add feat");
+        System.out.println("Add 2 step feat");
+        System.out.println("Merge");
 
         System.out.println("Task1");
         countBits(100);
-
         System.out.println("Task2");
         maskify("123545654546");
 
